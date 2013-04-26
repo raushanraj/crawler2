@@ -1,4 +1,3 @@
-
 def lookup(index,keyword):
     for e in index:
         if e==keyword:
